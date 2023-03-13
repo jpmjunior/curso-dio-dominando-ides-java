@@ -14,7 +14,8 @@
 </p>    
 <p align="center"> <em> ⚠️ Lembrando que o <strong>foco do curso são as IDEs</strong> e não a linguaguem Java. Ok? ⚠️ </em></p>
 
-
+<h2>Links Úteis</h2>
+<a href="http://www.basef.com.br/index.php/Atalhos_do_IntelliJ_Idea"><Strong>Atalhos do IntelliJ Idea</Strong></a>
 
 <h2>
 🛑 Pré-requistos
